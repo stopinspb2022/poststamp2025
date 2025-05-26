@@ -1,2 +1,2 @@
 # poststamp2025 new
-all
+all poststamp GN
